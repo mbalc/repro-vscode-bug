@@ -1,1 +1,1 @@
-module/README.md
+/home/mbalc/repos/personal/vscode-bug-repro/module/README.md
