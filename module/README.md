@@ -1,2 +1,1 @@
-Some description
-
+/home/mbalc/repos/personal/vscode-bug-repro/docs/module.md
